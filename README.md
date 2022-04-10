@@ -12,7 +12,7 @@ For Neural Network for MNIST dataset.ipynb, extract the contents from mnist_trai
 ## 1. Animating bivariate normal distribution
 Run the code Bivariate Gaussian Visualizer.ipynb.
 
-![image](https://user-images.githubusercontent.com/79975787/162630369-19168bbb-fec5-4e44-b295-37a4946e08b6.png)
+![image](https://user-images.githubusercontent.com/79975787/162632502-f2836e71-9f03-4307-8c05-8af4bab25030.png)
 
 Use the widgets to change mean and Covariance to visualize bivariate guassian for yourself.
 
