@@ -1,4 +1,4 @@
-# IIT-Gandhinagar
+# SRIP - tasks
 
 Tasks given By Prof. Nipun Batra
 
